@@ -1,6 +1,6 @@
 ## Lab: 06  bearer-auth
 
-### Bearer Auth 
+### Authentication Server Phase 2: Token (Bearer) Authentication
 
 ### Author: Michael Campbell
 
