@@ -1,5 +1,9 @@
 'use strict';
 
-const { db } = require('../../src/auth/models');
 
-db.sync();
+
+module.exports=()=>{
+  const { db } = require('../../src/auth/models');
+
+  db.sync();
+}
